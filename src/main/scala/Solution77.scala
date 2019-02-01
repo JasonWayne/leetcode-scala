@@ -1,5 +1,10 @@
 import scala.collection.mutable.ListBuffer
 
+/**
+  * 77. Combinations
+  * Get scala solutions for other problems from my github repo:
+  *   https://github.com/JasonWayne/leetcode-scala
+  */
 object Solution77 {
   def combine(n: Int, k: Int): List[List[Int]] = {
     var result =  new ListBuffer[List[Int]]

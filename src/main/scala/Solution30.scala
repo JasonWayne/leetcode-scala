@@ -2,6 +2,8 @@ import scala.collection.mutable
 
 /**
   * 30. Substring with Concatenation of All Words
+  * Get scala solutions for other problems from my github repo:
+  *   https://github.com/JasonWayne/leetcode-scala
   */
 object Solution30 {
 
